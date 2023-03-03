@@ -1,2 +1,5 @@
 # legendary_archer
-My first github 
+
+My first repository on github 
+
+I love technology and writing.
